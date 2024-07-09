@@ -12,4 +12,5 @@ Linux intro-
 -Taking linux os modified accordingly to requirement and released in market with different names 
   i.e -  redhat,ubuntu os, centos, fedora, kali linux , amazon linux etc 
   some are commercial
-- minus + linus ---- linux  
+- minus + linus ---- linux 
+- linux is a kernal , not an os on their own 
